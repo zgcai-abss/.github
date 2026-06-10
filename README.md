@@ -2,33 +2,30 @@
 
 # ZGCAI-ABSS
 
-### 基于智能体的大规模社会模拟器项目团队  
-### Agent-Based Large-Scale Social Simulator Project Team
+### 基于智能体的大规模社会模拟器项目团队
 
-北京中关村学院 · Beijing Zhongguancun Academy
+北京中关村学院
 
 <br />
 
-[![Focus](https://img.shields.io/badge/Focus-Agent--Based%20Social%20Simulation-blue)](#)
-[![Scenario](https://img.shields.io/badge/Scenarios-Public%20Opinion%20%7C%20Law%20%7C%20Forecasting-green)](#)
+[![ABSS](https://img.shields.io/badge/ABSS-Agent--Based%20Social%20Simulation-blue)](#)
+[![Scenarios](https://img.shields.io/badge/Scenarios-Opinion%20%7C%20Law%20%7C%20Forecasting-green)](#)
 [![License](https://img.shields.io/badge/License-Apache--2.0-orange)](#)
 [![Platform](https://img.shields.io/badge/Platform-GitHub%20%7C%20Gitee-lightgrey)](#)
 
 <br />
 
-**Building large-scale, high-fidelity, real-world-aligned agent societies.**
-
-[中文](#中文简介) · [English](#english-version) · [项目方向](#项目方向) · [开源规范](#开源规范)
+**构建超大规模、高保真、与真实世界对齐的智能体社会模拟平台**
 
 </div>
 
 ---
 
-## 中文简介
+## 简介
 
-我们是 **北京中关村学院基于智能体的大规模社会模拟器项目团队**，聚焦 **Agent-Based Social Simulation, ABSS** 方向，致力于构建超大规模、高保真、与真实世界对齐的智能体社会模拟平台。
+我们是 **北京中关村学院基于智能体的大规模社会模拟器项目团队**，聚焦 **Agent-Based Social Simulation, ABSS** 方向，致力于构建面向复杂社会系统的智能体社会模拟平台。
 
-我们的目标是通过大规模异质智能体、真实世界数据对齐、复杂社会交互建模、长周期行为演化与可解释评估体系，探索面向复杂社会系统的下一代模拟基础设施。
+本项目旨在通过大规模异质智能体、真实世界数据对齐、复杂社会交互建模、长周期行为演化与可解释评估体系，探索下一代社会模拟基础设施。
 
 平台将面向科研探索与实际应用，支撑 **舆情模拟、法律模拟、趋势预测** 等垂直场景，并逐步形成可复用、可扩展、可评估的智能体社会模拟技术栈。
 
@@ -52,36 +49,36 @@
 
 ## 项目方向
 
-### 舆情模拟 · Public Opinion Simulation
+### 舆情模拟
 
 面向信息传播、观点演化、群体极化、谣言扩散、公共事件响应等问题，构建面向网络空间与社会传播系统的智能体舆情模拟能力。
 
-### 法律模拟 · Legal Simulation
+### 法律模拟
 
 面向法律推理、规则执行、司法行为、制度反馈与社会治理等场景，探索智能体在法律与规则约束环境中的行为模拟、推理评估与决策分析。
 
-### 趋势预测 · Trend Forecasting
+### 趋势预测
 
 面向社会趋势、产业变化、公众态度、群体行为与复杂系统演化等问题，探索基于智能体模拟的趋势分析与预测方法。
 
-### 通用社会模拟平台 · General ABSS Platform
+### 通用社会模拟平台
 
 围绕智能体建模、环境建模、交互机制、记忆机制、规划机制、评估体系与可视化工具，建设可扩展、可复用的大规模社会模拟基础设施。
 
 ---
 
-## Featured Projects
+## 重点仓库
 
 > 当前仓库仍在整理中。后续将逐步开放非涉密代码、工具库、实验复现与技术文档。
 
-| Project | Status | Description |
+| 仓库 | 状态 | 说明 |
 |---|---|---|
-| `abss-core` | Planning | 大规模智能体社会模拟核心框架 |
-| `opinion-sim` | Planning | 舆情传播、观点演化与群体行为模拟工具 |
-| `legal-sim` | Planning | 法律规则、制度约束与司法行为模拟工具 |
-| `trend-forecast` | Planning | 基于智能体模拟的趋势分析与预测实验框架 |
-| `scenario-hub` | Planning | 垂直场景、案例配置与实验模板集合 |
-| `eval-bench` | Planning | 社会模拟结果评估、对齐与可解释分析工具 |
+| `abss-core` | 规划中 | 大规模智能体社会模拟核心框架 |
+| `opinion-sim` | 规划中 | 舆情传播、观点演化与群体行为模拟工具 |
+| `legal-sim` | 规划中 | 法律规则、制度约束与司法行为模拟工具 |
+| `trend-forecast` | 规划中 | 基于智能体模拟的趋势分析与预测实验框架 |
+| `scenario-hub` | 规划中 | 垂直场景、案例配置与实验模板集合 |
+| `eval-bench` | 规划中 | 社会模拟结果评估、对齐与可解释分析工具 |
 
 ---
 
@@ -89,9 +86,9 @@
 
 <div align="center">
 
-`Agent-Based Simulation` · `Large-Scale Multi-Agent Systems` · `Social Computing`  
-`Public Opinion Modeling` · `Legal AI` · `Trend Forecasting`  
-`Real-World Alignment` · `Simulation Evaluation` · `Complex Systems`
+`智能体社会模拟` · `大规模多智能体系统` · `复杂系统建模`  
+`社会计算` · `舆情模拟` · `法律智能` · `趋势预测`  
+`真实世界对齐` · `仿真评估` · `可复现实验`
 
 </div>
 
@@ -113,9 +110,11 @@
 
 ---
 
-## Repository Guidelines
+## 仓库规范
 
-建议本组织下的仓库遵循统一命名和结构：
+建议本组织下的仓库遵循统一命名和结构。
+
+推荐仓库命名：
 
 ```text
 abss-core
@@ -125,3 +124,53 @@ trend-forecast
 scenario-hub
 eval-bench
 paper-2026-xxx
+```
+
+推荐每个仓库至少包含：
+
+```text
+README.md
+LICENSE
+.gitignore
+requirements.txt / pyproject.toml / environment.yml
+examples/
+docs/
+```
+
+---
+
+## 协作流程
+
+团队成员可围绕智能体社会模拟、复杂系统建模、社会计算、舆情分析、法律智能、趋势预测等方向进行协作开发。
+
+推荐开发流程：
+
+```text
+Issue → Branch → Pull Request → Code Review → Merge
+```
+
+核心原则：
+
+- 重要修改通过 Pull Request 合并；
+- 公开发布前进行非涉密检查；
+- 仓库默认采用 Apache License 2.0；
+- 代码、文档、实验配置尽可能保持可复现；
+- 重要实验结果应记录运行环境、参数配置与数据来源。
+
+---
+
+## 建设方向
+
+| 方向 | 内容 |
+|---|---|
+| 智能体基础设施 | 大规模异质智能体建模、运行、调度与管理框架 |
+| 社会行为建模 | 个体决策、群体互动、观点演化与社会结构变化 |
+| 场景化模拟 | 舆情、法律、趋势预测等垂直场景建模与实验 |
+| 真实世界对齐 | 现实数据、领域知识、行为规律与评估体系对齐 |
+| 开源与复现 | 非涉密成果的统一开源、实验复现与文档建设 |
+
+---
+
+## 联系方式
+
+如需了解项目、参与协作或反馈问题，请联系相关仓库维护者或项目团队负责人。
